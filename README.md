@@ -30,14 +30,10 @@ Note:
 > It is recommended to use 11.1V/12V lithium battery, For example, use 3pcs 18650 for adapter board.
 the current can be appropriately larger, and 3500mAH is more durable.
 
-V3 version of the car wheel chassis installation video 
+> Online(Only chinese)：https://www.7gp.cn/archives/982
 
+>Arduino drive information(Only chinese): https://www.7gp.cn/archives/308
 
-Online(Only chinese)：
+>Mixly graphics programming (Only chinese): https://www.7gp.cn/archives/322
 
-https://www.7gp.cn/archives/982
-
-Arduino drive information(Only chinese):
-https://www.7gp.cn/archives/308
-Mixly graphics programming (Only chinese):
-https://www.7gp.cn/archives/322
+[구매 링크](https://ko.aliexpress.com/item/1005006083044702.html?spm=a2g0o.productlist.seoads.3.2a021296RrvTKU&p4p_pvid=202412162113401798100647347540000118167_2&_gl=1*oqtcha*_gcl_aw*R0NMLjE3MzMyNzc1MDQuQ2p3S0NBaUE5YnE2QmhBS0Vpd0FINmJxb05lS3BhZGE0a0xqWkR6U0FkQ0dDcDZkZGVQb1gtaUVsVlRyaHRnWTcxd0xKT0tXYV9tLXhob0NneXNRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMyNzc1MDQuQ2p3S0NBaUE5YnE2QmhBS0Vpd0FINmJxb05lS3BhZGE0a0xqWkR6U0FkQ0dDcDZkZGVQb1gtaUVsVlRyaHRnWTcxd0xKT0tXYV9tLXhob0NneXNRQXZEX0J3RQ..*_gcl_au*MTAzMDk5NzA1MS4xNzMyNTgwNDMy*_ga*MTcxOTQzMTE0Ni4xNzI0Mzc0OTkw*_ga_VED1YSGNC7*MTczNDQxMTY5MC41OC4xLjE3MzQ0MTI0MzcuNDIuMC4w&gatewayAdapt=glo2kor)
