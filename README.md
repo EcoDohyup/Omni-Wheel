@@ -3,7 +3,7 @@
 ## source codes from the manufacturer
 
 ## Work History
-- 18th DEC 2024 : Hardware assembled, Firmware flashed
+- 18th DEC 2024 : Hardware assembled, Firmware flashed, 통신 확인 완료
 
 ## ToDo
 - connect with batteries
