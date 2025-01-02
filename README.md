@@ -46,3 +46,5 @@ the current can be appropriately larger, and 3500mAH is more durable.
 [manufacture webpage](https://www.7gp.cn/)
 
 [xbox controller - ESP32 board](https://racheldebarros.com/esp32-projects/connect-your-game-controller-to-an-esp32/)
+
+[l293D 모터드라이버쉴드 핀맵](https://playwithcircuit.com/l293d-motor-driver-shield-arduino-tutorial/)

@@ -73,7 +73,7 @@ void dumpMouse(ControllerPtr ctl) {
                    ctl->deltaY()        // (-511 - 512) left Y axis
     );
 }
-
+/*
 void dumpKeyboard(ControllerPtr ctl) {
     static const char* key_names[] = {
         // clang-format off
@@ -124,6 +124,7 @@ void dumpBalanceBoard(ControllerPtr ctl) {
                    ctl->temperature()   // temperature: used to adjust the scale value's precision
     );
 }
+*/
 
 void processGamepad(ControllerPtr ctl) {
     // There are different ways to query whether a button is pressed.
@@ -175,6 +176,7 @@ void processGamepad(ControllerPtr ctl) {
     dumpGamepad(ctl);
 }
 
+/*
 void processMouse(ControllerPtr ctl) {
     // This is just an example.
     if (ctl->scrollWheel() > 0) {
@@ -224,6 +226,7 @@ void processBalanceBoard(ControllerPtr ctl) {
     // See "dumpBalanceBoard" for possible things to query.
     dumpBalanceBoard(ctl);
 }
+*/
 
 void processControllers() {
     for (auto myController : myControllers) {
